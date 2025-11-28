@@ -23,14 +23,14 @@
 
 ## 🌐 Connect with me
 <p align="left">
-<a href="https://facebook.com/umerbadini" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="umerbadini" height="30" width="40" />
-  umerbadini
+<a href="https://www.facebook.com/share/19xpF6vTZJ/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  Umer BaDini
 </a>
 &nbsp;&nbsp;
-<a href="https://instagram.com/umer_badini" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="umer_badini" height="30" width="40" />
-  umer_badini
+<a href="https://www.instagram.com/umerbadinii?igsh=dzVrOWd0cDV0aDBx" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  Umer BaDini
 </a>
 </p>
 
