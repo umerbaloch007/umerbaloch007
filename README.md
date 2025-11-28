@@ -79,14 +79,12 @@
 ---
 
 ## 📊 GitHub Stats
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umerbaloch007&show_icons=true&locale=en&layout=compact" alt="top-langs" />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=umerbaloch007&show_icons=true&locale=en&theme=dark&hide=prs,issues" alt="github-stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umerbaloch007&layout=compact&theme=dark&hide=html,css" alt="top-langs" width="48%" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=umerbaloch007&show_icons=true&locale=en" alt="github-stats" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umerbaloch007" alt="streak-stats" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umerbaloch007&theme=dark" alt="streak-stats" width="50%" />
 </p>
